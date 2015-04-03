@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry including="**/*.java" kind="src" path="src/main/java"/>
+	<classpathentry excluding="**/*.java" kind="src" path="src/main/resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/cts1/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/4.0.6.RELEASE/85ef4b91fcdd86d81e4a9b3e5f006dcb4128e6d/spring-web-4.0.6.RELEASE.jar" sourcepath="C:/Users/cts1/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/4.0.6.RELEASE/ea420724d884a43e3db4b08d2ca5ff75715ff9bb/spring-web-4.0.6.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/cts1/Desktop/spring/org.springframework.context-3.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/cts1/Desktop/spring/javax.servlet.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
